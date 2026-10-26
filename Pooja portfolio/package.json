@@ -1,0 +1,13 @@
+{
+  "name": "pooja-portfolio",
+  "version": "1.0.0",
+  "description": "A dark, minimal developer portfolio built with the existing stack: **HTML, CSS, and vanilla JavaScript**. No frameworks, no build step.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
